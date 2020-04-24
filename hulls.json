@@ -1,0 +1,135 @@
+{
+    "Daemon Battleship": {
+        "name": "Daemon Battleship",
+        "Alias1": "Daemon",
+        "Alias2": "None",
+        "file": "daemon",
+        "new": ""
+    },
+    "Sovereign Carrier": {
+        "name": "Sovereign Carrier",
+        "Alias1": "Sovereign",
+        "Alias2": "sov",
+        "file": "sov",
+        "new": ""
+    },
+    "Orion": {
+        "name": "Orion",
+        "Alias1": "Ori",
+        "Alias2": "None",
+        "file": "orionTemp",
+        "new": ""
+    },
+    "Omega": {
+        "name": "Omega",
+        "Alias1": "None",
+        "Alias2": "None",
+        "file": "omega",
+        "new": ""
+    },
+    "Blackguard Cruiser": {
+        "name": "Blackguard Cruiser",
+        "Alias1": "blackguard",
+        "Alias2": "None",
+        "file": "Blackguard cruiser",
+        "new": "NEW"
+    },
+    "Ogre Battleship": {
+        "name": "Ogre Battleship",
+        "Alias1": "Ogre",
+        "Alias2": "None",
+        "file": "ogre",
+        "new": ""
+    },
+    "Aerico": {
+        "name": "Aerico",
+        "Alias1": "Aeri",
+        "Alias2": "None",
+        "file": "aerico",
+        "new": ""
+    },
+    "Gargoyle Carrier": {
+        "name": "Gargoyle Carrier",
+        "Alias1": "Gargoyle",
+        "Alias2": "Garg",
+        "file": "garg",
+        "new": ""
+    },
+    "Machete": {
+        "name": "Machete",
+        "Alias1": "Mashitty",
+        "Alias2": "Mach",
+        "file": "machete",
+        "new": ""
+    },
+    "Zettabyte Dreadnought": {
+        "name": "Zettabyte Dreadnought",
+        "Alias1": "Zettabyte",
+        "Alias2": "Zetta",
+        "file": "Zetabyte",
+        "new": "NEW"
+    },
+    "Operator": {
+        "name": "Operator",
+        "Alias1": "Oper",
+        "Alias2": "Op",
+        "file": "operator",
+        "new": "NEW"
+    },
+    "Medusa Destroyer": {
+        "name": "Medusa Destroyer",
+        "Alias1": "Medusa",
+        "Alias2": "med",
+        "file": "medusa",
+        "new": "NEW"
+    },
+    "Legion Battleship": {
+        "name": "Legion Battleship",
+        "Alias1": "Legion",
+        "Alias2": "None",
+        "file": "legion",
+        "new": "NEW"
+    },
+    "Tornado Frigate": {
+        "name": "Tornado Frigate",
+        "Alias1": "Tornado",
+        "Alias2": "Nado",
+        "file": "tornado",
+        "new": "NEW"
+    },
+    "Covenant Cruiser": {
+        "name": "Covenant Cruiser",
+        "Alias1": "Covenant",
+        "Alias2": "Cov",
+        "file": "covenant",
+        "new": "NEW"
+    },
+    "Damocles Destroyer": {
+        "name": "Damocles Destroyer",
+        "Alias1": "Damocles",
+        "Alias2": "Damo",
+        "file": "damocles",
+        "new": "NEW"
+    },
+    "Basilisk Cutter": {
+        "name": "Basilisk Cutter",
+        "Alias1": "Basilisk",
+        "Alias2": "Basil",
+        "file": "basilisk",
+        "new": "NEW"
+    },
+    "Dominion Carrier": {
+        "name": "Dominion Carrier",
+        "Alias1": "Dominion",
+        "Alias2": "Dom",
+        "file": "dominion",
+        "new": "NEW"
+    },
+    "Hellfire Battleship": {
+        "name": "Hellfire Battleship",
+        "Alias1": "Hellfire",
+        "Alias2": "Hell",
+        "file": "hellfire",
+        "new": "NEW"
+    }
+}
