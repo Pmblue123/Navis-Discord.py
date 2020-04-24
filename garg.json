@@ -1,0 +1,12 @@
+{
+    "name": "Gargoyle Carrier",
+    "icon-link": "https://gamepedia.cursecdn.com/vegaconflict_gamepedia_en/thumb/3/30/GargoyleCarrier1.png/192px-GargoyleCarrier1.png?version=97ea5e9a875aa2d4ade3ac4f8b5b0f7a",
+    "faction": "Umbra",
+    "tier": "7B",
+    "class": "Carrier",
+    "description": "Umbras Carrier class ship.  It has 2 overdrives the first one release 24 missile around the ship when 3 or more target is in the firing arc. Its range can be extended by a drone. The second one is its Weapon disruption system .",
+    "obtaining": "You can obtain its blueprint by attacking Umbra Blaze Cargo in Umbra sector.",
+    "tips-builds": "Use Mix of Blight and explosive hammer missiles or mix it with Cyclotron.. Ablative armor, Magnetic Collar and Harmonic Thruster or Sunder.",
+    "wiki-link": "https://vegaconflict.gamepedia.com/Gargoyle_Carrier",
+    "author": "Useless Sonanochi"
+}

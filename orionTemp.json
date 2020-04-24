@@ -1,0 +1,12 @@
+{
+    "name": "Orion",
+    "icon-link": "https://gamepedia.cursecdn.com/vegaconflict_gamepedia_en/thumb/3/36/Orion1.png/192px-Orion1.png?version=35af01768c84823a2fd52818cd32c11a",
+    "faction": "Altairian",
+    "tier": "8",
+    "class": "Fighter",
+    "description": "This ship is extremely fast, going 900 forward, w/ 680 strafe. Whenever it takes 1250 damage to shield, it gains double strafe and forward speed, 100% shield defense, and increased damage for 4 seconds. This is the fastest ship in the game, although it is limited to a max range of 3000m. It specializes at killing Pharmakon w/ boosts to Screen damage and Phase Hacking. Vectors beware. Shields recharge 5% energy a second w/ no delay and can recharge after full depletion.",
+    "obtaining": "You can obtain it in the HIJACK event.",
+    "tips-builds": "- This ship is very effective against all Pharmakon targets with its built-in Phase Charge Hacking and Screen Damage. This means this ship functions well with conventional damage types as it doesn't need the extra boost AL damage provides.\n- Due to the massive 5% shield recharge per second, heavily loading this ship with shields is very advisable.\n- Thanks to the high recharge and +10% shield defense during overdrive, the Orion can survive on it's own without needing support from an Ajax.",
+    "wiki-link": "https://vegaconflict.gamepedia.com/Orion",
+    "author": "Karkarion (editted by Daniel Rose)"
+}

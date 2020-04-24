@@ -1,0 +1,12 @@
+{
+    "name": "Blackguard Cruiser",
+    "icon-link": "https://gamepedia.cursecdn.com/vegaconflict_gamepedia_en/7/76/BlackguardCruiser1.png?version=39e3a2abd8e8a6c59282a7a9dc39b180"   ,
+    "faction": "Marauder",
+    "tier": "7",
+    "class": "Cruiser",
+    "description": "This is not a ship for PVE, because every AI fleet has much void resist. It can cause many damage to several enemys with echo cannon type void with chain reaction in FvF.",
+    "obtaining": "Events such as Alliance War and Void strike.",
+    "tips-builds": "void resonnant armor; void shell; void ionization; void epsilon echo cannon;voltaic thruster;(whatever)",
+    "wiki-link": "https://vegaconflict.gamepedia.com/Blackguard_Cruiser",
+    "author": "craftarkio ytb"
+}

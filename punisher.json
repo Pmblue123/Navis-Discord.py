@@ -1,0 +1,12 @@
+{
+    "name": "Punisher Cruiser",
+    "icon-link": "https://gamepedia.cursecdn.com/vegaconflict_gamepedia_en/thumb/d/d6/PunisherCruiser1.png/192px-PunisherCruiser1.png?version=85012f655d0faa9eb9b04449de14bab7",
+    "faction": "Xeno Division",
+    "tier": "6",
+    "class": "Cruiser",
+    "description": "This was the first Xeno ship released. They have a max mass of 11.7k. For a new player, these can be great, especially once MKV. They can be good at tanking damage.",
+    "obtaining": "  You can get this ship from the campaigns. You get 6 prebuilt ones once you complete it, along with the blueprint. You can farm alien reapers in sectors for MK upgrades.",
+    "tips-builds": "  A punisher build I prefer uses metaphasic shields, pulse cannons, max beam capacitor, armored thrusters, and then one of each resistance armor at least. This will give it more resistance to the various damages, making it take less damage through shields to help w/ more sustainable farming, and to give you an additional edge in PvP.",
+    "wiki-link": "https://vegaconflict.gamepedia.com/Punisher_Cruiser",
+    "author": "Karkarion"
+}

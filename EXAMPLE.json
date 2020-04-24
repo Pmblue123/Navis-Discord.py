@@ -1,0 +1,12 @@
+{
+    "name": "<insert hull name here>",
+    "icon-link": "",
+    "faction": "<insert ship faction here>",
+    "tier": "<insert ship tier here>",
+    "class": "<insert ship class here>",
+    "description": "<insert ship description here. This can include stuff like slots, things that are special about it, abilities, ect.>",
+    "obtaining": "<how to obtain the ship, along w/ tips in farming/grinding for it maybe>",
+    "tips-builds": "<advice on ship builds, and general tips about this ship>",
+    "wiki-link": "",
+    "author": "<ur name owo>"
+}

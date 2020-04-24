@@ -1,0 +1,12 @@
+{
+    "name": "Plexus Carrier",
+    "icon-link": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fgamepedia.cursecdn.com%2Fvegaconflict_gamepedia_en%2Fthumb%2Fd%2Fd5%2FPlexusCarrier1.png%2F128px-PlexusCarrier1.png%3Fversion%3D325465c4e01476198308d8f853701fc8&imgrefurl=https%3A%2F%2Fvegaconflict.gamepedia.com%2FPlexus_Carrier&tbnid=Qv23zkPkBiex8M&vet=12ahUKEwi63NqC1fjnAhUMY5QKHV11BcEQMygFegQIARAk..i&docid=YIs1nXwF3tP2wM&w=128&h=128&q=plexus%20carrier&hl=en-US&client=ms-android-vivo-rev1&ved=2ahUKEwi63NqC1fjnAhUMY5QKHV11BcEQMygFegQIARAk",
+    "faction": "Pharmakon",
+    "tier": "7",
+    "class": "Carrier",
+    "description": "Carrier Class of Pharmakon faction. It can limit the function of enemy Ablative armor with its Enfeeble field and send the friendly pharmakon ship into phase state if attack using Network Sync. When 3 more enemies are within the targeting arc its unleashed its second overdrive which is Laser array a long range plasma beam weapon",
+    "obtaining": "You can obtain is Blueprint by attacking Pharmakon Protocol Cargo in Pharmakon Sector",
+    "tips-builds": "You can use Kaon drivers converted to plasma with deflector screen for basing or use spectral screen for farming. You can also use nightingale drone with kaon driver..Add Harmonic thruster and phase charge relay 3 for more phasing ",
+    "wiki-link": "https://vegaconflict.gamepedia.com/Plexus_Carrier",
+    "author": "Tsun-Devil Sonanochi"
+}
