@@ -1,0 +1,12 @@
+{
+    "name": "Exterminator Destroyer",
+    "icon-link": "https://gamepedia.cursecdn.com/vegaconflict_gamepedia_en/thumb/3/30/ExterminatorDestroyer1.png/192px-ExterminatorDestroyer1.png?version=82aa0f8dfdea778c51468c392a829851",
+    "faction": "Xeno Division",
+    "tier": "6",
+    "class": "Destroyer",
+    "description": "The Xeno Division's top-of-the-line destroyer. With 4 weapons at Mk 1 along with 2 armor slots and 3 special slots, plus bonus forward/strafe speeds, this ship is devastating to player bases and Unknown Outposts alike. Still having the incredible cargo capacity of a Xeno hull, you can rip bases apart with this and have room for large amounts of cargo once you're finished.",
+    "obtaining": "(Campaign) Training Simulation: Alien Hybrids",
+    "tips-builds": "4 Xeno Shatter driver at elite for effective basing and 1 xeno seeker missile for base squadron defense.Armor with kinetic resistance, xeno munition and xeno siege casing as specials",
+    "wiki-link": "https://vegaconflict.gamepedia.com/Exterminator_Destroyer",
+    "author": "N/A"
+}
