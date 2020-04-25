@@ -1,0 +1,12 @@
+{
+    "name": "Plexus Carrier",
+    "icon-link": "https://gamepedia.cursecdn.com/vegaconflict_gamepedia_en/d/d5/PlexusCarrier1.png",
+    "faction": "Pharmakon",
+    "tier": "7C",
+    "class": "Carrier",
+    "description": "The Plexus Carrier is the centerpiece of a Tier 7 Pharmakon fleet, with the ability to limit the function of enemy Ablative Armor with its Enfeeble Field, send friendly ships into Phase State when the carrier is under attack via Network Sync, and snipe enemies from afar with its Laser Array when threatened.",
+    "obtaining": "Pharmakon Protocol Cargo, Pharmakon Sector",
+    "tips-builds": "When in combat against Umbra ships, Pharmakon ships are able to, more effectively, take down Umbra ships within the Enfeeble Field, due to the Ablative Suppression debuff, which reduces the rate at which Umbra Ablative Armor restores by dealing damage.\nFurthermore, with its Network Sync Overdrive, which triggers from screen damage, both the Plexus and any Pharmakon ship within the Enfeeble Field will enter Phase State, allowing the ships to be repositioned more easily to deal with threats.\nDo not forget about the Laser Array, which fires three Plasma beams at 11,000 m when triggered. This is the longest-ranged weapon made available to players! Their damage output is pretty high and can reach a total of over 3k DPS at Mk V. It is extremely deadly when a primary target is selected as all three beams will converge on it.\nIt also has 4 Screens when upgraded, meaning it has more defense than the Gargoyle Carrier and Sovereign Carrier.",
+    "wiki-link": "https://vegaconflict.gamepedia.com/Plexus_Carrier",
+    "author": "137B201F8F7AD871"
+}

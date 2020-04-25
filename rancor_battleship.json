@@ -1,7 +1,7 @@
 {
     "name": "Rancor Battleship",
-    "icon-link": "https://gamepedia.cursecdn.com/vegaconflict_gamepedia_en/thumb/a/ac/RancorBattleship1.png/128px-RancorBattleship1.png?version=bd64850daa3d7e70fa9c3d2cfaab37c6",
-    "faction": "Rebel",
+    "icon-link": "https://gamepedia.cursecdn.com/vegaconflict_gamepedia_en/a/ac/RancorBattleship1.png",
+    "faction": "Rebels",
     "tier": "1",
     "class": "Battleship",
     "description": "This rebel ship was made to deal massive abounts of damage enemy ships",

@@ -1,0 +1,12 @@
+{
+    "name": "Trojan",
+    "icon-link": "https://gamepedia.cursecdn.com/vegaconflict_gamepedia_en/5/5a/TrojanCruiser1.gif",
+    "faction": "Pharmakon",
+    "tier": "7C",
+    "class": "Cruiser",
+    "description": "The Trojan Cruiser is the Pharmakon Cruiser, capable of phasing in and out of space, and dealing damage over time. It has also been designed to counter Umbra technology, in particular the Manticore Battlecruiser, having a damage boost against battlecruisers and Umbra ships.",
+    "obtaining": "Pharmakon Parse Cargo, Pharmakon Sector",
+    "tips-builds": "While in Phase State, it gains additional combat speed, enabling it to weave in and out of combat, making it useful for hit and run attacks. Upon exiting Phase State, it gains resistance to almost all damage types (except Void), providing it a powerful boost when it reenters the fray.\nIt has the ability to inflict Damage Over Time, which greatly complements its Phasing ability, since this ship can continue to deal damage when in Phase State, while its enemies cannot.\nIt is specifically designed to counter Umbra Hulls, in particular the Manticore Battlecruiser, with its additional damage to Umbra Hulls and Battlecruiser Hulls, as well as increased resistance to Blight weaponry as it is upgraded.",
+    "wiki-link": "https://vegaconflict.gamepedia.com/Trojan_Cruiser",
+    "author": "137B201F8F7AD871"
+}

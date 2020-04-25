@@ -1,12 +1,12 @@
 {
     "name": "Pegasus",
-    "icon-link": "https://vignette.wikia.nocookie.net/vega-conflict/images/2/26/Pegasus1.png/revision/latest?cb=20171127141520",
+    "icon-link": "https://gamepedia.cursecdn.com/vegaconflict_gamepedia_en/2/26/Pegasus1.png",
     "faction": "AXIS",
     "tier": "6.5",
     "class": "Specialist",
     "description": "The second Specialist that ever release after Supressor. It has Harmonic Warfare and Harmonic Siege bonus. It has also the mobility and costumizability of Frigrate. You can also equip multiple reactor (Agility, Warfare and Siege). They are also great for cargo, since they have 5 special slots.",
-    "obtaining": "You can obtain its blueprints by attacking AXIS Heavy Outpost Cargo in Axis Sector",
+    "obtaining": "AXIS Heavy Outpost Cargo, Axis Sector",
     "tips-builds": "Pegasus focuses in supporting your fleet so you really dont need any weapons for it but if you want you can also use eclipse driver. You can also equip 3 reactors (Agility, Warfare and Siege) and Exopahse shield, harmonic thruster and more if you want to add more harmonic bonuses..\nPegs are also great fo cargo, because they have 5 special slots, so you can put lvl 3 xeno cargo holds on them for 10.7 mil each ship.",
-    "wiki-link": "https://vega-conflict.fandom.com/wiki/Pegasus",
+    "wiki-link": "https://vegaconflict.gamepedia.com/Pegasus",
     "author": "Tsun-Devil Sonanochi"
 }

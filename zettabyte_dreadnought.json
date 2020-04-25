@@ -1,12 +1,12 @@
 {
     "name": "Zettabyte Dreadnought",
-    "icon-link": "https://gamepedia.cursecdn.com/vegaconflict_gamepedia_en/f/ff/ZettabyteDreadnought1.png?version=01a0f5c14d12d8d792c40e9f1ce53837",
+    "icon-link": "https://gamepedia.cursecdn.com/vegaconflict_gamepedia_en/f/ff/ZettabyteDreadnought1.png",
     "faction": "Pharmakon",
-    "tier": "8",
+    "tier": "8C",
     "class": "Dreadnought",
     "description": "This ship = big OP in every conceivable way. This thing has hella armor and phase slots, and has an extra 100% damage and phase screen. This allows of over 60k phase screen energy. Upon every phase screen, it fires an omega gay missile, with an AOE of 6000m. It does a plasma burst every 10,000 damage it takes, similar to a harvester, with a range of 8,000 meters. \nItll kill everything, this thing is an abomination. It cannot strafe at all though.",
     "obtaining": "You can attack any of the following to get fragments for the dreadnought: Pharmakon Proxy (120), Pharmakon Ping (120), Pharmakon Serial (120)",
     "tips-builds": "None yet.",
-    "wiki-link": "https://vega-conflict.fandom.com/wiki/Category:Dreadnoughts",
+    "wiki-link": "https://vegaconflict.gamepedia.com/Zettabyte_Dreadnought",
     "author": "Karkarion"
 }

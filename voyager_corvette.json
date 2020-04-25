@@ -1,0 +1,12 @@
+{
+    "name": "Voyager Corvette",
+    "icon-link": "https://gamepedia.cursecdn.com/vegaconflict_gamepedia_en/1/1a/VoyagerCorvette1.png",
+    "faction": "Rebels",
+    "tier": "1",
+    "class": "Corvette",
+    "description": "The Voyager Corvette is a Tier 0 hull with starter Miner Rebellion technology. This ship is automatically unlocked at the start of the game and does not require research in the Ship Lab.e ship will be realased destroying all ships in the battle. 2 Leviathans should be enough to destroy it.",
+    "obtaining": "Tutorial",
+    "tips-builds": "Voyager Corvettes are incredibly cheap to produce and commonly used as a spam ship.\nObviously, this ship is a direct upgrade from the Pathfinder Corvette, but it does not have a large impact considering that you only have 1 Pathfinder Corvette but can build up to 100 Voyager Corvettes (or any other ship, for that matter).",
+    "wiki-link": "https://vegaconflict.gamepedia.com/Voyager_Corvette",
+    "author": "137B201F8F7AD871"
+}

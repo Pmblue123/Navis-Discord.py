@@ -1,0 +1,12 @@
+{
+    "name": "Supressor",
+    "icon-link": "https://gamepedia.cursecdn.com/vegaconflict_gamepedia_en/2/2a/Suppressor1.png",
+    "faction": "Xeno Division",
+    "tier": "6",
+    "class": "Specialist",
+    "description": "The Suppressor is a specialist hull that protects your fleet from incoming squadrons, prioritizing them over ships and dealing additional damage against them.\nNote that this targeting ability can be overridden manually.",
+    "obtaining": "(Campaign) Training Simulation: Alien Hybrids",
+    "tips-builds": "The main advantage to the Suppressor is its incredible counter-squadron capabilities. Other than the bonus damage and target prioritization, it also has a 360-deg firing arc, resulting in no blind spot.\nIt has the speed of a cruiser, and is able to catch up to most other hulls. This makes the Suppressor an excellent support ship against squadrons in fleets. It also has built-in Alien resistance giving it better survivability against Alien Event Targets.\nThe Suppressor isn't meant for fighting other ships but its 5 weapon slots can still inflict serious damage. Furthermore, it is very good at kiting short-ranged builds, as it does not have to strafe in order to engage the enemy, thanks to its 360-deg firing arc.eno seeker missile for more damage in squadrons and Xeno munitions for Xeno redeemer for more shield bypass.",
+    "wiki-link": "https://vegaconflict.gamepedia.com/Suppressor",
+    "author": "137B201F8F7AD871"
+}
