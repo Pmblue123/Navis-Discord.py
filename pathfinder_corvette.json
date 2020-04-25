@@ -1,12 +1,12 @@
 {
-    "name": "The God of All Memes, the Pathfinder Corvette", 
-    "icon-link": "https://gamepedia.cursecdn.com/vegaconflict_gamepedia_en/thumb/4/44/PathfinderCorvette1.png/192px-PathfinderCorvette1.png?version=0785851292b545803427b629517abb81",
+    "name": "Pathfinder Corvette", 
+    "icon-link": "https://gamepedia.cursecdn.com/vegaconflict_gamepedia_en/4/44/PathfinderCorvette1.png",
     "faction": "Rebel/God",
-    "tier": "-0 (since it is higher then gods itself",
-    "class": "God",
+    "tier": "1",
+    "class": "Corvette",
     "description": "This is the only ship that you can obtain that cannot be built in game, it is so bad that it is so good and it is the first ship you obtain through your Vega journey.",
     "obtaining": "Cannot be made at all, and is the first ship you obtain in game",
     "tips-builds": "Just yeet weapons on there along with some armor not much you can do with this hull",
     "wiki-link": " https://vegaconflict.gamepedia.com/Pathfinder_Corvette",
-"author": "Ya boi Ghostjammer128"
+"author": "Ghostjammer128"
 }

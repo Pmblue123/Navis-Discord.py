@@ -1,13 +1,12 @@
 {
     "name": "Bastion Cruiser",
-    "icon-link": "https://www.google.com/url?sa=t&source=web&rct=j&url=https://vega-conflict.fandom.com/wiki/Bastion_Cruiser&ved=2ahUKEwiC5Iz0m_3nAhXm-GEKHQVhBMEQFjAAegQIBBAB&usg=AOvVaw3tVE6yPVSZh2AP5099qVRe",
+    "icon-link": "https://gamepedia.cursecdn.com/vegaconflict_gamepedia_en/e/ea/BastionCruiser1.gif",
     "faction": "Altairian",
-    "tier": "7",
+    "tier": "7A",
     "class": "Cruiser",
-    "description": "The Bastion Cruiser is a Tier 7 ship that drains the Chain effect of weapons on hit. Its Firestorm Overdrive ability is activated upon losing shields, drastically increasing offensive capability for a short duration.
-Cannon weapons that are equipped on this ship gain an extra 1,000 m of range, which can be stacked with other range-increasing effects.",
+    "description": "The Bastion Cruiser is a Tier 7 ship that drains the Chain effect of weapons on hit. Its Firestorm Overdrive ability is activated upon losing shields, drastically increasing offensive capability for a short duration.\nCannon weapons that are equipped on this ship gain an extra 1,000 m of range, which can be stacked with other range-increasing effects.",
     "obtaining": "Altairian Vanguard Cargo, Altarian Sector",
     "tips-builds": "Epsilon Echo Cannon, Spectral shell, Harmonic Chase Thruster or Zephyr. Harmonic Beam Capacitor and Regenaration Converter 3 as specials.",
     "wiki-link":"https://vegaconflict.gamepedia.com/Bastion_Cruiser",
-    "author": "N/A"
+    "author": "137B201F8F7AD871"
 }

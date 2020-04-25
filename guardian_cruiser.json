@@ -1,13 +1,12 @@
 {
     "name": "Guardian Cruiser",
-    "icon-link": "https://gamepedia.cursecdn.com/vegaconflict_gamepedia_en/thumb/2/22/GuardianCruiser1.png/192px-GuardianCruiser1.png?version=b92ebffff665ff83ce7fedfb827a1936",
+    "icon-link": "https://gamepedia.cursecdn.com/vegaconflict_gamepedia_en/2/22/GuardianCruiser1.png",
     "faction": "AXIS",
     "tier": "6.5",
     "class": "Cruiser",
-    "description": "The Guardian Cruiser is a Tier 6 hull with the ability to resist both Alien and Plasma Damage. It provides the Harmonic Shield bonus which increases the shield capacity of your entire fleet.
-As a cruiser, this ship has great defensive capability and is designed to soak up damage. It has 4 weapons slots, 5 armor slots at MK1 and 6 armor slot at MK2+",
+    "description": "The Guardian Cruiser is a Tier 6 hull with the ability to resist both Alien and Plasma Damage. It provides the Harmonic Shield bonus which increases the shield capacity of your entire fleet.\nAs a cruiser, this ship has great defensive capability and is designed to soak up damage. It has 4 weapons slots, 5 armor slots at MK1 and 6 armor slot at MK2+",
     "obtaining": "Axis Reaper Cargo in the Axis sector",
     "tips-builds": "Xeno Pulse Cannon, Diffuser Shield or Metaphase Shield. Exophase Shield is not recommended due to the high repair time",
     "wiki-link": "https://vegaconflict.gamepedia.com/Guardian_Cruiser",
-    "author": "N/A"
+    "author": "137B201F8F7AD871"
 }

@@ -1,8 +1,8 @@
 {
     "name": "Daemon Battleship",
-    "icon-link": "https://gamepedia.cursecdn.com/vegaconflict_gamepedia_en/thumb/e/ef/DaemonBattleship1.gif/192px-DaemonBattleship1.gif?version=7e6be232e972575610d64f4a1b3a8b1c",
+    "icon-link": "https://gamepedia.cursecdn.com/vegaconflict_gamepedia_en/e/ef/DaemonBattleship1.gif",
     "faction": "Pharmakon",
-    "tier": "7",
+    "tier": "7C",
     "class": "Battleshipi",
     "description": "The Daemon Battleship is designed to decimate enemy targets, gaining increased weapon speed and AoE radius when it exits phasing, and drastically increased movement speed while phased.",
     "obtaining": "Pharmakon Cybernaut cargo.",

@@ -1,6 +1,6 @@
 {
     "name": "Exterminator Destroyer",
-    "icon-link": "https://gamepedia.cursecdn.com/vegaconflict_gamepedia_en/thumb/3/30/ExterminatorDestroyer1.png/192px-ExterminatorDestroyer1.png?version=82aa0f8dfdea778c51468c392a829851",
+    "icon-link": "https://gamepedia.cursecdn.com/vegaconflict_gamepedia_en/3/30/ExterminatorDestroyer1.png",
     "faction": "Xeno Division",
     "tier": "6",
     "class": "Destroyer",
@@ -8,5 +8,5 @@
     "obtaining": "(Campaign) Training Simulation: Alien Hybrids",
     "tips-builds": "4 Xeno Shatter driver at elite for effective basing and 1 xeno seeker missile for base squadron defense.Armor with kinetic resistance, xeno munition and xeno siege casing as specials",
     "wiki-link": "https://vegaconflict.gamepedia.com/Exterminator_Destroyer",
-    "author": "N/A"
+    "author": "137B201F8F7AD871"
 }

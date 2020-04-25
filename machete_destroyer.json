@@ -1,0 +1,13 @@
+{
+    "name": "Machete Destroyer",
+    "icon-link": "https://gamepedia.cursecdn.com/vegaconflict_gamepedia_en/thumb/2/25/MacheteDestroyer1.png/128px-MacheteDestroyer1.png",
+    "faction": "Iron Star Corporation",
+    "tier": "5",
+    "class": "Destroyer",
+    "description": "The Machete Destroyer is a Tier 5 hull with extra defensive capability in the form of armor slots and health bonuses.
+As a destroyer, this ship has modest firepower but very long range, taking out opponents from afar.",
+    "obtaining": "You can now only obtain the Machete (Mashitty) through campaigns.",
+    "tips-builds": "The Machete Destroyer has extra armor slots to offset the lack of shields. Skirmish Armor is recommended for fleet combat, while Deflector Armor and Kinetic Resistors are the best choice for base sniping.\nIt can equip the Unstable Reactor to surprise cutters and frigates that accidentally get too close.",
+    "wiki-link": "https://vegaconflict.gamepedia.com/Machete_Destroyer",
+    "author": "137B201F8F7AD871"
+}

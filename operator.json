@@ -1,8 +1,8 @@
 {
     "name": "Operator",
-    "icon-link": "https://gamepedia.cursecdn.com/vegaconflict_gamepedia_en/thumb/e/e0/Operator1.png/192px-Operator1.png?version=20ac5f402595361f0c0b5e9ee56f4264",
+    "icon-link": "https://gamepedia.cursecdn.com/vegaconflict_gamepedia_en/e/e0/Operator1.png",
     "faction": "Pharmakon",
-    "tier": "8",
+    "tier": "8C",
     "class": "Fighter",
     "description": "The Operator is designed for close range engagements. High speeds allow it to incessantly pursue its targets and upon exiting Phase it\\'s able to deal massive burst damage.",
     "obtaining": "Farm the Malware 96, 98 targets with a Sov and a Rena fit with some plasma resistance gear",

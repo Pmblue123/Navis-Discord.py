@@ -1,12 +1,12 @@
 {
     "name": "Blackguard Cruiser",
-    "icon-link": "https://gamepedia.cursecdn.com/vegaconflict_gamepedia_en/7/76/BlackguardCruiser1.png?version=39e3a2abd8e8a6c59282a7a9dc39b180"   ,
+    "icon-link": "https://gamepedia.cursecdn.com/vegaconflict_gamepedia_en/7/76/BlackguardCruiser1.png",
     "faction": "Marauder",
-    "tier": "7",
+    "tier": "7A",
     "class": "Cruiser",
-    "description": "This is not a ship for PVE, because every AI fleet has much void resist. It can cause many damage to several enemys with echo cannon type void with chain reaction in FvF.",
-    "obtaining": "Events such as Alliance War and Void strike.",
-    "tips-builds": "void resonnant armor; void shell; void ionization; void epsilon echo cannon;voltaic thruster;(whatever)",
+    "description": "The Blackguard Cruiser is a modified version of the Bastion Cruiser utilized by the Marauders. It features the Bastion\\'s Counter-chain abilities as well as the firestorm overdrive, but instead of having Alien and Plasma Resistance, has Resurgence and Void resistance.",
+    "obtaining": "Alliance War",
+    "tips-builds": "Void Resonnant Armor, Void Shell, Void Ionization, Void Epsilon Echo Cannon, Voltaic Thruster",
     "wiki-link": "https://vegaconflict.gamepedia.com/Blackguard_Cruiser",
-    "author": "craftarkio ytb"
+    "author": "137B201F8F7AD871"
 }

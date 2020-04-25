@@ -1,0 +1,12 @@
+{
+    "name": "Ogre Battleship",
+    "icon-link": "https://gamepedia.cursecdn.com/vegaconflict_gamepedia_en/5/54/OgreBattleship1.gif",
+    "faction": "Umbra",
+    "tier": "7B",
+    "class": "Battleship",
+    "description": "The appropriately named Ogre Battleship is a Tier 7 Battleship designed by the Umbra. Its Bloodlust ability grants it increased offensive capability the more times it is triggered as it is active.",
+    "obtaining": "Umbra Hellion Cargo, Umbra sector.",
+    "tips-builds": "Use a mix of Blight and Explosive Nova Missile, Ablative armor, Magnetic Collar and Harmonic Thrusters.",
+    "wiki-link": "https://vegaconflict.gamepedia.com/Ogre_Battleship",
+    "author": "137B201F8F7AD871"
+}

@@ -1,12 +1,12 @@
 {
     "name": "Omega",
-    "icon-link": "https://gamepedia.cursecdn.com/vegaconflict_gamepedia_en/thumb/a/a6/Omega1.png/192px-Omega1.png?version=060f33eb1c606cbdef9a222bf68c7a7f",
+    "icon-link": "https://gamepedia.cursecdn.com/vegaconflict_gamepedia_en/a/a6/Omega1.png/192px-Omega1.png",
     "faction": "Pharmakon",
     "tier": "7C",
     "class": "Specialist",
-    "description": "A specialist ship of Pharmakon Faction.. When out of phase it activates its trump card OMEGAAAA BEAAAAMMMMMM. That obliterates its enemies.",
-    "obtaining": "You can obtain its blueprint by attacking Pharmakon Phlash Cargo in the Pharmakon Sector.",
-    "tips-builds": "You can use the usual build which is using Traidic Vulcan as a weapon.. or you can use Binary torpedoes. Spectral or Shockwave Screen can be use.. Also use harmonic thrusters..",
+    "description": "The Omega is the Pharmakon Analogue of the Altairian Zeus, designed for swift and deadly strikes, fulfilling a niche role in addition to the Inhibitor Battlecruiser.",
+    "obtaining": "Pharmakon Phlash Cargo, Pharmakon Sector.",
+    "tips-builds": "The Omega's main advantages come in the form of improved DoT Bonuses as compared to other Pharmakon Hulls, as well as its Omega Beam, which fires a powerful beam of Plasma that pierces through everything in its path.\nIt also has decent speed stats, on par with a typical Cruiser. With Double forward Firing arcs, it can deal as much damage as a Battlecruiser or Battleship.",
     "wiki-link": "https://vegaconflict.gamepedia.com/Omega",
-    "author": "Useless Sonanochi"
+    "author": "137B201F8F7AD871"
 }

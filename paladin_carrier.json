@@ -1,0 +1,12 @@
+{
+    "name": "Paladin Carrier",
+    "icon-link": "https://gamepedia.cursecdn.com/vegaconflict_gamepedia_en/7/75/PaladinCarrier1.png",
+    "faction": "AXIS",
+    "tier": "6.5",
+    "class": "Carrier",
+    "description": "The Paladin Carrier serves as the bridge between two factions, the Xeno Division and A.X.I.S.. Its design is based upon the former, but appears in the latter's set of blueprints. It has a customizable support field through the use of Field Generators.",
+    "obtaining": "AXIS Harvester Cargo, AXIS sector",
+    "tips-builds": "Use Fury Drones 1 or Hunter Swarm 3 at MK1 when farming Pharmakon blueprints. I advise you to use Agility Field Generator as its support field and Harmonic Chase Thruster. You can also use Yellow Jacket Drones and no support field when used in Umbra Blueprint Farming",
+    "wiki-link": "https://vegaconflict.gamepedia.com/Paladin_Carrier",
+    "author": "137B201F8F7AD871"
+}

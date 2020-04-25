@@ -1,11 +1,11 @@
 {
     "name": "Enforcer Battleship",
-    "icon-link": "https://gamepedia.cursecdn.com/vegaconflict_gamepedia_en/thumb/6/6b/EnforcerBattleship1.png/192px-EnforcerBattleship1.png?version=a28d46500cd560ce05f2027228e075f9",
+    "icon-link": "https://gamepedia.cursecdn.com/vegaconflict_gamepedia_en/6/6b/EnforcerBattleship1.png",
     "faction": "A.X.I.S.(Advance Xeno Integrated System)",
     "tier": "6.5",
     "class": "Battleship",
     "description": "This is the A.X.I.S. Battleship. It features 7 weapon slots and 12,899t at MK1. The 7 weapon slots will allow massive damage output from the enforcer but it has only 1 armor and 1 shield slot making it a glass cannon. At MK 4, it will receive the 8th weapon slot. It has a 125% range modifier as most battleship does, when paired with eclipse drivers the range will reach up to 6563m. This is considered quite long range for anything below tier 7. The enforcer battleship also has a built in harmonic system like every other AXIS ships. The harmonic system for the Enforcer battleship is +2 harmonic warfare which increases the damage dealt to enemies. This can be paired with the Harmonic Beam Capacitor and Twinfire Beams to have maximum harmonic warfare.",
-    "obtaining": "The way of obtaining the enforcer battleship can be found in this link: https://www.youtube.com/watch?v=PYSL_Z4mr-c&list=PL0aqsvALDGchN6HdaydFMU84BQeevrRRD&index=18",
+    "obtaining": "The way of obtaining the enforcer battleship can be found in this [link](https://www.youtube.com/watch?v=PYSL_Z4mr-c&list=PL0aqsvALDGchN6HdaydFMU84BQeevrRRD&index=18)",
     "tips-builds": "A good weapon for the Enforcer battleship is the Eclipse Driver. The Eclipse Driver is a good weapon for most ships below tier 7 and for some at tier 7 including the medusa and orator. At MKE, you are recommended to use 7 Xeno Eclipse Drivers and 1 NET Torpedo with the torpedo slowing down groups of enemies making them easier for the Eclipse Drivers to hit. It is recommended to use Harmonic Chase Thrusters to increase the speed of your enforcer battleships. An Alternative build for Enforcer battleships is Twinfire Beams and Harmonic Beam Capacitor to have maximum harmonic warfare at the cost of lower range.",
     "wiki-link": "https://vegaconflict.gamepedia.com/Enforcer_Battleship",
     "author": "lelpiggy"
