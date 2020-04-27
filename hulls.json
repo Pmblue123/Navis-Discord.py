@@ -3,7 +3,7 @@
         "name": "Daemon Battleship",
         "Alias1": "Daemon",
         "Alias2": "None",
-        "file": "daemon",
+        "file": "daemon_battleship",
         "new": ""
     },
     "Sovereign Carrier": {
