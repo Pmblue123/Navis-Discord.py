@@ -1,135 +1,602 @@
 {
-    "Daemon Battleship": {
-        "name": "Daemon Battleship",
-        "Alias1": "Daemon",
+    "Pathfinder Corvette": {
+        "Alias1": "Pathfinder",
         "Alias2": "None",
-        "file": "daemon_battleship",
+        "file": "pathfinder_corvette",
+        "new": ""
+    },
+    "Voyager Corvette": {
+        "Alias1": "Voyager",
+        "Alias2": "voy",
+        "file": "voyager_corvette",
+        "new": ""
+    },
+    "Genesis Cruiser": {
+        "Alias1": "Genesis",
+        "Alias2": "",
+        "file": "genesis_cruiser",
+        "new": ""
+    },
+    "Harrier Frigate": {
+        "Alias1": "Harrier",
+        "Alias2": "",
+        "file": "harrier_frigate",
+        "new": ""
+    },
+    "Longbow Destroyer": {
+        "Alias1": "longbow",
+        "Alias2": "",
+        "file": "longbow_destroyer",
+        "new": ""
+    },
+    "Rancor Battleship": {
+        "Alias1": "Rancor",
+        "Alias2": "",
+        "file": "rancor_battleship",
+        "new": ""
+    },
+    "Destiny Cruiser": {
+        "Alias1": "destiny",
+        "Alias2": "",
+        "file": "destiny_cruiser",
+        "new": ""
+    },
+    "Talon Frigate": {
+        "Alias1": "Talon",
+        "Alias2": "",
+        "file": "talon_frigate",
+        "new": ""
+    },
+    "Exodus Cruiser": {
+        "Alias1": "Exodus",
+        "Alias2": "",
+        "file": "exodus_cruiser",
+        "new": ""
+    },
+    "Broadsword Destroyer": {
+        "Alias1": "broadsword",
+        "Alias2": "",
+        "file": "broadsword_destroyer",
+        "new": ""
+    },
+    "Venom Battleship": {
+        "Alias1": "Venom",
+        "Alias2": "",
+        "file": "venom_battleship",
+        "new": ""
+    },
+    "Midgard Carrier": {
+        "Alias1": "Midgard",
+        "Alias2": "",
+        "file": "midgard_carrier",
+        "new": ""
+    },
+    "Osprey Frigate": {
+        "Alias1": "Osprey",
+        "Alias2": "",
+        "file": "opsrey_frigate",
+        "new": ""
+    },
+    "Nighthawk Frigate": {
+        "Alias1": "Nighthawk",
+        "Alias2": "",
+        "file": "nighthawk_frigate",
+        "new": ""
+    },
+    "Revelation Cruiser": {
+        "Alias1": "Revelation",
+        "Alias2": "",
+        "file": "revelation_cruiser",
+        "new": ""
+    },
+    "Trident Destroyer": {
+        "Alias1": "Trident",
+        "Alias2": "",
+        "file": "trident_destroyer",
+        "new": ""
+    },
+    "Fury Battleship": {
+        "Alias1": "Fury",
+        "Alias2": "",
+        "file": "fury_battleship",
+        "new": ""
+    },
+    "Taipan Cutter": {
+        "Alias1": "Taipan",
+        "Alias2": "",
+        "file": "taipan_cutter",
+        "new": ""
+    },
+    "Valhalla Carrier": {
+        "Alias1": "Valhalla",
+        "Alias2": "",
+        "file": "valhalla_carrier",
+        "new": ""
+    },
+    "Rapture Cruiser": {
+        "Alias1": "Rapture",
+        "Alias2": "",
+        "file": "rapture_cruiser",
+        "new": ""
+    },
+    "Condor Frigate": {
+        "Alias1": "Condor",
+        "Alias2": "",
+        "file": "condor_frigate",
+        "new": ""
+    },
+    "Apocrypha Cruiser": {
+        "Alias1": "Apocrypha",
+        "Alias2": "",
+        "file": "apocrypha_cruiser",
+        "new": ""
+    },
+    "Scythe Destroyer": {
+        "Alias1": "Scythe",
+        "Alias2": "",
+        "file": "scythe_destroyer",
+        "new": ""
+    },
+    "Dread Battleship": {
+        "Alias1": "Dread",
+        "Alias2": "",
+        "file": "dread_battleship",
+        "new": ""
+    },
+    "Gharil Cutter": {
+        "Alias1": "Gharil",
+        "Alias2": "",
+        "file": "gharil_cutter",
+        "new": ""
+    },
+    "Ragnarok Carrier": {
+        "Alias1": "Ragnarok",
+        "Alias2": "",
+        "file": "ragnarok_carrier",
+        "new": ""
+    },
+    "Javelin Flagship": {
+        "Alias1": "Javelin",
+        "Alias2": "Jav",
+        "file": "javelin_flagship",
+        "new": ""
+    },
+    "Blood Raven Frigate": {
+        "Alias1": "Raven",
+        "Alias2": "Blood Raven",
+        "file": "raven_frigate",
+        "new": ""
+    },
+    "Eagle Frigate": {
+        "Alias1": "Eagle",
+        "Alias2": "",
+        "file": "eagle_frigate",
+        "new": ""
+    },
+    "Corinthian Cruiser": {
+        "Alias1": "Corinthian",
+        "Alias2": "Corinth",
+        "file": "corinthian_cruiser",
+        "new": ""
+    },
+    "Lance Destroyer": {
+        "Alias1": "Lance",
+        "Alias2": "",
+        "file": "lance_destroyer",
+        "new": ""
+    },
+    "Zeal Battleship": {
+        "Alias1": "Zeal",
+        "Alias2": "",
+        "file": "zeal_battleship",
+        "new": ""
+    },
+    "Komodo Cutter": {
+        "Alias1": "Komodo",
+        "Alias2": "",
+        "file": "komodo_cutter",
+        "new": ""
+    },
+    "Valkyrie Carrier": {
+        "Alias1": "Valkyrie",
+        "Alias2": "Valk",
+        "file": "valkyrie_carrier",
+        "new": ""
+    },
+    "Hurricane Frigate": {
+        "Alias1": "Hurricane",
+        "Alias2": "",
+        "file": "hurricane_frigate",
+        "new": ""
+    },
+    "Heretic Cruiser": {
+        "Alias1": "Heretic",
+        "Alias2": "",
+        "file": "heretic_cruiser",
+        "new": ""
+    },
+    "Machete Destroyer": {
+        "Alias1": "Machete",
+        "Alias2": "",
+        "file": "machete_destroyer",
+        "new": ""
+    },
+    "Vigilante Battleship": {
+        "Alias1": "Vigilante",
+        "Alias2": "Vig",
+        "file": "vigilante_battleship",
+        "new": ""
+    },
+    "Python Cutter": {
+        "Alias1": "Python",
+        "Alias2": "",
+        "file": "python_cutter",
+        "new": ""
+    },
+    "Freyja Carrier": {
+        "Alias1": "Freyja",
+        "Alias2": "",
+        "file": "freyja_carrier",
+        "new": ""
+    },
+    "Legion Battleship": {
+        "Alias1": "Legion",
+        "Alias2": "",
+        "file": "legion_battleship",
+        "new": ""
+    },
+    "Tornado Frigate": {
+        "Alias1": "Tornado",
+        "Alias2": "",
+        "file": "tornado_frigate",
+        "new": ""
+    },
+    "Covenant Cruiser": {
+        "Alias1": "Covenant",
+        "Alias2": "Cov",
+        "file": "covenant_cruiser",
+        "new": ""
+    },
+    "Damocles Destroyer": {
+        "Alias1": "Damocles",
+        "Alias2": "",
+        "file": "damocles_destroyer",
+        "new": ""
+    },
+    "Hellfire Battleship": {
+        "Alias1": "Hellfirer",
+        "Alias2": "",
+        "file": "hellfire_battleship",
+        "new": ""
+    },
+    "Basilisk Cutter": {
+        "Alias1": "Basilisk",
+        "Alias2": "",
+        "file": "basilisk_cutter",
+        "new": ""
+    },
+    "Dominion Carrier": {
+        "Alias1": "Dominion",
+        "Alias2": "Domi",
+        "file": "dominion_carrier",
+        "new": ""
+    },
+    "Suppressor": {
+        "Alias1": "Suppressor",
+        "Alias2": "Sup",
+        "file": "suppressor",
+        "new": ""
+    },
+    "Punisher Cruiser": {
+        "Alias1": "Punisher",
+        "Alias2": "Pun",
+        "file": "punisher_cruiser",
+        "new": ""
+    },
+    "Exterminator Destroyer": {
+        "Alias1": "Exterminator",
+        "Alias2": "",
+        "file": "exterminator_destroyer",
+        "new": ""
+    },
+    "Annihilator Battleship": {
+        "Alias1": Annihilator"",
+        "Alias2": "Anni",
+        "file": "annihilator_battleship",
+        "new": ""
+    },
+    "Decimator Cutter": {
+        "Alias1": "Decimator",
+        "Alias2": "Deci",
+        "file": "decimator_cutter",
+        "new": ""
+    },
+    "Tyrant": {
+        "Alias1": "Tyrant",
+        "Alias2": "",
+        "file": "tyrant",
+        "new": ""
+    },
+    "Pegasus": {
+        "Alias1": "Pegasus",
+        "Alias2": "Peg",
+        "file": "pegasus",
+        "new": ""
+    },
+    "Guardian Cruiser": {
+        "Alias1": "Guardian",
+        "Alias2": "guard",
+        "file": "guardian_cruiser",
+        "new": ""
+    },
+    "Liberator Destroyer": {
+        "Alias1": "Liberator",
+        "Alias2": "Lib",
+        "file": "liberator_destroyer",
+        "new": ""
+    },
+    "Enforcer Battleship": {
+        "Alias1": "Enforcer",
+        "Alias2": "",
+        "file": "enforcer_battleship",
+        "new": ""
+    },
+    "Vindicator Cutter": {
+        "Alias1": "Vindicator",
+        "Alias2": "Vindi",
+        "file": "vindicator_cutter",
+        "new": ""
+    },
+    "Paladin Carrier": {
+        "Alias1": "Paladin",
+        "Alias2": "Pala",
+        "file": "paladin_carrier",
+        "new": ""
+    },
+    "Harvester": {
+        "Alias1": "Harvester",
+        "Alias2": "Harv",
+        "file": "harvester",
+        "new": ""
+    },
+    "Tormentor": {
+        "Alias1": "tormetor",
+        "Alias2": "",
+        "file": "pegasus",
+        "new": ""
+    },
+    "Berserker Cruiser": {
+        "Alias1": "Berserker",
+        "Alias2": "Bers",
+        "file": "berserker_cruiser",
+        "new": ""
+    },
+    "Dragon Destroyer": {
+        "Alias1": "Dragon",
+        "Alias2": "",
+        "file": "dragon_destroyer",
+        "new": ""
+    },
+    "Gladiator Battleship": {
+        "Alias1": "Gladiator",
+        "Alias2": "",
+        "file": "",
+        "new": ""
+    },
+    "Ravager Cutter": {
+        "Alias1": "Ravager",
+        "Alias2": "",
+        "file": "ravager_cutter",
+        "new": ""
+    },
+    "Vanquiser Carrier": {
+        "Alias1": "Vanquisher",
+        "Alias2": "",
+        "file": "vanquisher_carrier",
+        "new": ""
+    },
+    "Bastion Cruiser": {
+        "Alias1": "Bastion",
+        "Alias2": "",
+        "file": "bastion_cruiser",
+        "new": ""
+    },
+    "Inquisitor Destroyer": {
+        "Alias1": "Inquisitor",
+        "Alias2": "Inqui",
+        "file": "inquisitor_destroyer",
+        "new": ""
+    },
+    "Paragon Battleship": {
+        "Alias1": "Paragon",
+        "Alias2": "Para",
+        "file": "paragon_battleship",
+        "new": ""
+    },
+    "Cavalier Cutter": {
+        "Alias1": "Cavalier",
+        "Alias2": "Cav",
+        "file": "cavalier_cutter",
+        "new": ""
+    },
+    "Renascence Battlecruiser": {
+        "Alias1": "Renascence",
+        "Alias2": "Rena",
+        "file": "renascence_battlecruiser",
         "new": ""
     },
     "Sovereign Carrier": {
-        "name": "Sovereign Carrier",
         "Alias1": "Sovereign",
-        "Alias2": "sov",
-        "file": "sov",
-        "new": ""
-    },
-    "Orion": {
-        "name": "Orion",
-        "Alias1": "Ori",
-        "Alias2": "None",
-        "file": "orionTemp",
-        "new": ""
-    },
-    "Omega": {
-        "name": "Omega",
-        "Alias1": "None",
-        "Alias2": "None",
-        "file": "omega",
+        "Alias2": "Sov",
+        "file": "sovereign_carrier",
         "new": ""
     },
     "Blackguard Cruiser": {
-        "name": "Blackguard Cruiser",
-        "Alias1": "blackguard",
-        "Alias2": "None",
-        "file": "Blackguard cruiser",
-        "new": "NEW"
-    },
-    "Ogre Battleship": {
-        "name": "Ogre Battleship",
-        "Alias1": "Ogre",
-        "Alias2": "None",
-        "file": "ogre",
+        "Alias1": "Blackguard",
+        "Alias2": "",
+        "file": "blackguard_cruiser",
         "new": ""
     },
-    "Aerico": {
-        "name": "Aerico",
-        "Alias1": "Aeri",
-        "Alias2": "None",
-        "file": "aerico",
+    "Saboteur Destroyer": {
+        "Alias1": "Saboteur",
+        "Alias2": "Sabot",
+        "file": "saboteur_destroyer",
         "new": ""
     },
-    "Gargoyle Carrier": {
-        "name": "Gargoyle Carrier",
-        "Alias1": "Gargoyle",
-        "Alias2": "Garg",
-        "file": "garg",
+    "Kingpin Battleship": {
+        "Alias1": "Kingpin",
+        "Alias2": "",
+        "file": "kingpin_battleship",
         "new": ""
     },
-    "Machete": {
-        "name": "Machete",
-        "Alias1": "Mashitty",
-        "Alias2": "Mach",
-        "file": "machete",
+    "Assasin Cutter": {
+        "Alias1": "Assasin",
+        "Alias2": "",
+        "file": "assasin_cutter",
         "new": ""
     },
-    "Zettabyte Dreadnought": {
-        "name": "Zettabyte Dreadnought",
-        "Alias1": "Zettabyte",
-        "Alias2": "Zetta",
-        "file": "Zetabyte",
-        "new": "NEW"
+    "Usurper Carrier": {
+        "Alias1": "Usurper",
+        "Alias2": "",
+        "file": "usurper_carrier",
+        "new": ""
     },
-    "Operator": {
-        "name": "Operator",
-        "Alias1": "Oper",
-        "Alias2": "Op",
-        "file": "operator",
-        "new": "NEW"
+    "Prophet Flagship": {
+        "Alias1": "Prophet",
+        "Alias2": "",
+        "file": "prophet_flagship",
+        "new": ""
+    },
+    "Phoenix Frigate": {
+        "Alias1": "Phoenix",
+        "Alias2": "",
+        "file": "phoenix_frigate",
+        "new": ""
+    },
+    "Wraith Cruiser": {
+        "Alias1": "Wraith",
+        "Alias2": "",
+        "file": "wraith_cruiser",
+        "new": ""
     },
     "Medusa Destroyer": {
-        "name": "Medusa Destroyer",
         "Alias1": "Medusa",
-        "Alias2": "med",
-        "file": "medusa",
-        "new": "NEW"
+        "Alias2": "",
+        "file": "medusa_destroyer",
+        "new": ""
     },
-    "Legion Battleship": {
-        "name": "Legion Battleship",
-        "Alias1": "Legion",
-        "Alias2": "None",
-        "file": "legion",
-        "new": "NEW"
+    "Ogre Battleship": {
+        "Alias1": "Ogre",
+        "Alias2": "",
+        "file": "ogre_battleship",
+        "new": ""
     },
-    "Tornado Frigate": {
-        "name": "Tornado Frigate",
-        "Alias1": "Tornado",
-        "Alias2": "Nado",
-        "file": "tornado",
-        "new": "NEW"
+    "Manticore Battlecruiser": {
+        "Alias1": "Manticore",
+        "Alias2": "",
+        "file": "manticore_cruiser",
+        "new": ""
     },
-    "Covenant Cruiser": {
-        "name": "Covenant Cruiser",
-        "Alias1": "Covenant",
-        "Alias2": "Cov",
-        "file": "covenant",
-        "new": "NEW"
+    "Behemoth": {
+        "Alias1": "Behemoth",
+        "Alias2": "Behe",
+        "file": "behemoth",
+        "new": ""
     },
-    "Damocles Destroyer": {
-        "name": "Damocles Destroyer",
-        "Alias1": "Damocles",
-        "Alias2": "Damo",
-        "file": "damocles",
-        "new": "NEW"
+    "Lunatic Cruiser": {
+        "Alias1": "Lunatic",
+        "Alias2": "",
+        "file": "lunatic_cruiser",
+        "new": ""
     },
-    "Basilisk Cutter": {
-        "name": "Basilisk Cutter",
-        "Alias1": "Basilisk",
-        "Alias2": "Basil",
-        "file": "basilisk",
-        "new": "NEW"
+    "Savae Battleship": {
+        "Alias1": "Savage",
+        "Alias2": "",
+        "file": "savage_battleship",
+        "new": ""
     },
-    "Dominion Carrier": {
-        "name": "Dominion Carrier",
-        "Alias1": "Dominion",
-        "Alias2": "Dom",
-        "file": "dominion",
-        "new": "NEW"
+    "Trojan Cruiser": {
+        "Alias1": "Trojan",
+        "Alias2": "",
+        "file": "trojan_cruiser",
+        "new": ""
     },
-    "Hellfire Battleship": {
-        "name": "Hellfire Battleship",
-        "Alias1": "Hellfire",
-        "Alias2": "Hell",
-        "file": "hellfire",
-        "new": "NEW"
-    }
+    "Daemon Battleship": {
+        "Alias1": "Daemon",
+        "Alias2": "",
+        "file": "daemon_battleship",
+        "new": ""
+    },
+    "Inhibitor Cutter": {
+        "Alias1": "Inhibitor",
+        "Alias2": "",
+        "file": "inhibitor_cutter",
+        "new": ""
+    },
+    "Omega": {
+        "Alias1": "Omega",
+        "Alias2": "",
+        "file": "omega",
+        "new": ""
+    },
+    "Plexus Carrier": {
+        "Alias1": "Plexus",
+        "Alias2": "",
+        "file": "plexus_carrier",
+        "new": ""
+    },
+    "Segfault": {
+        "Alias1": "Segfault",
+        "Alias2": "Seg",
+        "file": "segfault",
+        "new": ""
+    },
+    "Artemis": {
+        "Alias1": "Artemis",
+        "Alias2": "",
+        "file": "artemis",
+        "new": ""
+    },
+    "Valrayvn": {
+        "Alias1": "Val",
+        "Alias2": "",
+        "file": "valrayvn",
+        "new": ""
+    },
+    "Vector": {
+        "Alias1": "Vector",
+        "Alias2": "",
+        "file": "",
+        "new": "vector"
+    },
+    "Operator": {
+        "Alias1": "Operator",
+        "Alias2": "Op",
+        "file": "operator",
+        "new": ""
+    },
+    "Orion": {
+        "Alias1": "Orion",
+        "Alias2": "",
+        "file": "orion",
+        "new": ""
+    },
+    "Wendigo": {
+        "Alias1": "Wendigo",
+        "Alias2": "",
+        "file": "wendigo",
+        "new": ""
+    },
+    "Amarok": {
+        "Alias1": "Amarok",
+        "Alias2": "",
+        "file": "amarok",
+        "new": ""
+    },
+    "Ajax": {
+        "Alias1": "Ajax",
+        "Alias2": "",
+        "file": "ajax",
+        "new": ""
+    },
 }
