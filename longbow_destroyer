@@ -1,0 +1,12 @@
+{
+    "name": "Longbow Destroyer",
+    "icon-link": "https://gamepedia.cursecdn.com/vegaconflict_gamepedia_en/5/5c/LongbowDestroyer.png",
+    "faction": "Rebels",
+    "tier": "1",
+    "class": "Destroyer",
+    "description": "The Longbow Destroyer is a Tier 1 hull with primitive Miner Rebellion technology.",
+    "obtaining": "N/A",
+    "tips-builds": "The Longbow Destroyer, like other destroyers, has a range bonus that allows this ship to outrange the vast majority of other ships as well as most Energy and Explosive base weapons. This enables you to destroy opponents without suffering any damage in return./nRear Thrusters are commonly used to catch other ships, while Strafe Thrusters help the Longbow Destroyer to dodge incoming projectiles at maximum range. Rotation Thrusters may also be used to prevent enemies from exploiting the ship's narrow firing arc by staying in its blind spot.",
+    "wiki-link": "https://vegaconflict.gamepedia.com/Longbow_Destroyer",
+    "author": "The Federation"
+}
