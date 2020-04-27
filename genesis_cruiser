@@ -1,0 +1,12 @@
+{
+    "name": "Genesis Cruiser",
+    "icon-link": "https://gamepedia.cursecdn.com/vegaconflict_gamepedia_en/9/92/GenesisCruiser1.png",
+    "faction": "Rebels",
+    "tier": "1",
+    "class": "Cruiser",
+    "description": "The Genesis Cruiser is a Tier 1 hull with primitive Miner Rebellion technology.",
+    "obtaining": "N/A",
+    "tips-builds": "Genesis Cruisers are the most versatile Tier 1 hull. With a wide firing arc, this ship can travel directly forwards while simultaneously firing back at enemies, unlike Harrier Frigates which have to face the enemy in order to do so. This allows the Genesis Cruiser to kite enemies without having to rely on strafe speed. In a skirmish, Genesis Cruisers are often spaced apart and fly parallel to the enemy for maximum dodging capability./nGenesis Cruisers can be used to rush a base, i.e. charging into the middle of the base and destroying anything there, due to their high health that allows them to take many hits before being destroyed. They can also become decoys for early sniper fleets, distracting the enemy and keeping your Longbow Destroyers safe from attack. However, such uses often require the ship to exceed the instant repair limit (5 minutes) to be effective, so you risk having to spend time repairing them.",
+    "wiki-link": "https://vegaconflict.gamepedia.com/Genesis_Cruiser",
+    "author": "The Federation"
+}
